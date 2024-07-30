@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Oslo/OsloMet/Fourth%20semester/MlFlow/mlruns/0/6fd16f00d28d42ae979f7aea6d91ff59/artifacts
+end_time: 1722174949269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fd16f00d28d42ae979f7aea6d91ff59
+run_name: skittish-pug-43
+run_uuid: 6fd16f00d28d42ae979f7aea6d91ff59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722174946808
+status: 3
+tags: []
+user_id: acer

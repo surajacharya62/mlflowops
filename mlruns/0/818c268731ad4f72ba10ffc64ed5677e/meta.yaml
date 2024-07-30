@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Oslo/OsloMet/Fourth%20semester/MlFlow/mlruns/0/818c268731ad4f72ba10ffc64ed5677e/artifacts
+end_time: 1722173846665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 818c268731ad4f72ba10ffc64ed5677e
+run_name: useful-croc-630
+run_uuid: 818c268731ad4f72ba10ffc64ed5677e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722173843237
+status: 3
+tags: []
+user_id: acer
